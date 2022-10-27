@@ -20,11 +20,15 @@ async function criaVideo (titulo, descricao, url, imagem) {
             imagem:imagem
         })
     })
+
+    const conexaoConvertida = await conexao.JSON ()
+    return conexaoConvertida
 }
 
 
 
 
 export const conectaApi = {
-    listaVideos
+    listaVideos,
+    criaVideo
 }

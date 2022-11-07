@@ -14,5 +14,3 @@ async function criarVideo(evento) {
 }
 
 formulario.addEventListener("submit", evento => criarVideo(evento))
-
-formulario.addEventListener ("submit", evento => criaVideo (evento))

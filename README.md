@@ -1,19 +1,50 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+### CRIANDO-REQUISICOES-JS
 
-<hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-* NodeJS
-* Json-server
+### Índice
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+- [Visão Geral](#visão-geral)
+  - [O desafio](#the-challenge)
+  - [Captura de tela](#captura-de-tela)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que aprendi](#o-que-aprendi)
+- [Autor](#autor)
 
-## Screenshots
+
+## Visão geral
+
+Esse é o projeto AluraPlay
+
+### O desafio
+
+Os usuários devem ser capazes de:
+
+- Cadastrar, buscar, e assistir videos do youtube.
+
+### Captura de tela
+
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+
+## Meu processo
+
+Realizando projeto conforme os passos indicados do curso.
+
+### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+- JavaSCript
+- NodeJS
+- Json-server
+
+### O que eu aprendi
+
+Criar requisições em JS para sistema de cadastro simples.
+
+
+### author
+- Linkedin: (https://www.linkedin.com/in/wesleyoliveiralima/)
+
